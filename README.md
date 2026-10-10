@@ -4,7 +4,11 @@ Landing page demonstrativa para uma **padaria artesanal fictícia**, desenvolvid
 
 O site apresenta uma identidade visual acolhedora, navegação responsiva, catálogo de produtos com filtros interativos e integração demonstrativa com WhatsApp.
 
-🌐 **[Acessar o site publicado](https://jefersonalvesrs.github.io/padaria-aurora/)**
+## 🌐 Projeto online
+
+Acesse o projeto publicado:
+
+https://jefersonalvesrs.github.io/padaria-aurora/
 
 > **Projeto fictício:** nome, telefone, endereço, horários e produtos são demonstrativos e não representam uma empresa real.
 
